@@ -3,13 +3,13 @@
 		<div class="grid grid-cols-2 md:grid-cols-4">
 			<!-- Row 1 -->
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<span class="font-bold text-gray-800 tracking-widest text-lg">LEVER</span>
+				<span class="font-bold text-gray-800 tracking-widest text-lg uppercase">Lever</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-bold text-gray-800 text-lg">SmartRecruiters</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<!-- Empty or subtle pattern -->
+				<span class="font-bold text-gray-800 text-lg">Workable</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-serif font-bold text-gray-800 text-lg">greenhouse</span>
@@ -17,7 +17,7 @@
 
 			<!-- Row 2 -->
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<!-- Empty -->
+				<span class="font-bold text-gray-800 text-lg">Teamtailor</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<div class="flex items-center gap-2">
@@ -26,8 +26,8 @@
 				</div>
 			</div>
 			<div class="col-span-2 row-span-2 flex flex-col items-center justify-center border-b border-gray-200 bg-white p-8 text-center z-10">
-				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[03] ATS & CRM Integrations</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">Integrates with tools you use</h2>
+				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[03] ATS & Workflow Integrations</div>
+				<h2 class="text-4xl font-medium tracking-tight text-gray-900 leading-tight">Fits right into your hiring stack</h2>
 			</div>
 
 			<!-- Row 3 (Adjusted for colspan) -->
@@ -35,7 +35,7 @@
 				<span class="font-bold text-gray-800 text-xl">Ashby</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<span class="font-bold text-gray-800 text-lg">Crelate</span>
+				<span class="font-bold text-gray-800 text-lg">Personio</span>
 			</div>
 			
 			<!-- Row 4 -->
@@ -46,14 +46,12 @@
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-bold text-gray-800 text-lg flex items-center gap-2">
-					<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"/></svg>
-					Gmail
+					Breezy
 				</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-bold text-gray-800 text-lg flex items-center gap-2">
-					<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/></svg>
-					Chrome
+					BambooHR
 				</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-b border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
@@ -62,16 +60,16 @@
 
 			<!-- Row 5 -->
 			<div class="flex h-32 items-center justify-center border-r border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<!-- Empty -->
+				<span class="font-bold text-gray-800 text-lg">SuccessFactors</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
 				<span class="font-bold text-gray-800 text-lg">workday.</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-r border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<!-- Empty -->
+				<span class="font-bold text-gray-800 text-lg">iCIMS</span>
 			</div>
 			<div class="flex h-32 items-center justify-center border-gray-200 p-8 grayscale opacity-60 hover:opacity-100 transition-opacity">
-				<span class="text-xs font-bold text-gray-500 tracking-widest uppercase">And 40+ More</span>
+				<span class="text-xs font-bold text-gray-500 tracking-widest uppercase">And 50+ More</span>
 			</div>
 		</div>
 	</div>

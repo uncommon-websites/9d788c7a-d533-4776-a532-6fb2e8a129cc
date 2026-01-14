@@ -3,7 +3,7 @@
 		<div class="mb-12 flex items-end justify-between">
 			<div>
 				<div class="mb-4 text-[10px] font-bold tracking-widest text-gray-500 uppercase">[05] Latest Updates</div>
-				<h2 class="text-4xl font-medium tracking-tight text-gray-900">See what's coming next in<br>AI-driven recruiting</h2>
+				<h2 class="text-4xl font-medium tracking-tight text-gray-900">See what's coming next in<br>AI-driven hiring</h2>
 			</div>
 			<a href="#" class="text-[10px] font-bold tracking-widest text-gray-900 uppercase hover:underline">
 				View Our Blog &rsaquo;
@@ -13,9 +13,9 @@
 		<div class="grid grid-cols-1 gap-8 lg:grid-cols-2">
 			<!-- Large Card -->
 			<div class="flex flex-col border border-gray-200 bg-white transition-shadow hover:shadow-lg">
-				<div class="relative flex-1 bg-blue-50 p-8 overflow-hidden">
+				<div class="relative flex-1 bg-primary-50 p-8 overflow-hidden">
 					<div class="absolute inset-x-8 top-8 bottom-0 bg-white shadow-xl rounded-t-lg border border-gray-200 p-4">
-						<div class="mb-4 text-xl font-bold text-gray-800">New Sequence Builder</div>
+						<div class="mb-4 text-xl font-bold text-gray-800">New AI Screening Calls</div>
 						<div class="space-y-2">
 							<div class="flex gap-2">
 								<div class="w-1/3 space-y-2">
@@ -23,7 +23,7 @@
 									<div class="h-2 bg-gray-100 rounded"></div>
 								</div>
 								<div class="w-2/3 space-y-2">
-									<div class="h-8 bg-blue-50 rounded border border-blue-100"></div>
+									<div class="h-8 bg-primary-50 rounded border border-primary-100"></div>
 									<div class="h-20 bg-gray-50 rounded border border-gray-100"></div>
 								</div>
 							</div>
@@ -32,7 +32,7 @@
 				</div>
 				<div class="p-6">
 					<div class="mb-2 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Product Updates</div>
-					<h3 class="mb-4 text-2xl font-medium text-gray-900">Sequence Builder, New Preset Capabilities, Better ATS Exports</h3>
+					<h3 class="mb-4 text-2xl font-medium text-gray-900">AI Screening Calls, Multi-language Support, and Enhanced Fraud Detection</h3>
 					<div class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Nov 12, 2025 · 4MIN</div>
 				</div>
 			</div>
@@ -45,27 +45,27 @@
 						<div class="bg-white h-full w-full shadow-sm p-1">
 							<div class="h-2 w-1/2 bg-gray-200 mb-1"></div>
 							<div class="grid grid-cols-2 gap-1">
-								<div class="h-4 bg-blue-100 rounded"></div>
+								<div class="h-4 bg-primary-100 rounded"></div>
 								<div class="h-4 bg-green-100 rounded"></div>
 							</div>
 						</div>
 					</div>
 					<div>
 						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Product Updates</div>
-						<h3 class="mb-2 text-lg font-medium text-gray-900">Company Tags in Search and Expanded Talent Insights Export</h3>
+						<h3 class="mb-2 text-lg font-medium text-gray-900">Science-Informed Assessment Design: A Deep Dive</h3>
 						<div class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Oct 21, 2025 · 2MIN</div>
 					</div>
 				</div>
 
 				<!-- Card 2 -->
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
-					<div class="h-24 w-32 shrink-0 bg-[#4a7dba] flex flex-col items-center justify-center text-white p-2 text-center">
-						<div class="text-xs font-bold mb-1">Juicebox</div>
-						<div class="text-sm font-bold">AI Autodraft</div>
+					<div class="h-24 w-32 shrink-0 bg-primary-900 flex flex-col items-center justify-center text-white p-2 text-center">
+						<div class="text-xs font-bold mb-1">HiPeople</div>
+						<div class="text-[10px] font-bold">AI Trust Center</div>
 					</div>
 					<div>
-						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Product Updates</div>
-						<h3 class="mb-2 text-lg font-medium text-gray-900">Launch Week // Day 04 -- AI Autodrafting + In-App Messaging</h3>
+						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Company News</div>
+						<h3 class="mb-2 text-lg font-medium text-gray-900">Launching the HiPeople AI Trust Center & Independent Audit Reports</h3>
 						<div class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Oct 3, 2025 · 2MIN</div>
 					</div>
 				</div>
@@ -74,14 +74,14 @@
 				<div class="flex gap-6 border border-gray-200 bg-white p-6 transition-shadow hover:shadow-lg">
 					<div class="h-24 w-32 shrink-0 bg-gray-50 p-2 flex flex-wrap content-center gap-1 justify-center">
 						<div class="h-3 w-8 bg-red-100 rounded"></div>
-						<div class="h-3 w-10 bg-blue-100 rounded"></div>
+						<div class="h-3 w-10 bg-primary-100 rounded"></div>
 						<div class="h-3 w-6 bg-green-100 rounded"></div>
 						<div class="h-3 w-8 bg-yellow-100 rounded"></div>
-						<div class="w-full text-[8px] text-center font-bold text-gray-500 mt-1">300+ Company Tags</div>
+						<div class="w-full text-[8px] text-center font-bold text-gray-500 mt-1">50+ ATS Integrations</div>
 					</div>
 					<div>
 						<div class="mb-1 text-[10px] font-bold tracking-widest text-gray-500 uppercase">Product Updates</div>
-						<h3 class="mb-2 text-lg font-medium text-gray-900">Launch Week // Day 03 -- Company Tags</h3>
+						<h3 class="mb-2 text-lg font-medium text-gray-900">New Integrations: Workday, iCIMS, and SuccessFactors</h3>
 						<div class="text-[10px] font-bold tracking-widest text-gray-400 uppercase">Oct 2, 2025 · 2MIN</div>
 					</div>
 				</div>
